@@ -1,10 +1,68 @@
-# xteam-IM office/chat software  商务即时通讯的软件工具
-IM office/chat software；是一款专业的商务即时通讯的软件工具，软件支持话题驱动、聊天记录保存、消息同步、消息检索等功能。非常方便快捷，软件界面简约，布局直观清晰。操作简单，容易上手，是一款十分实用的工具；
-IM办公/聊天软件加密软件源代码、线上成熟稳定产品，支持多重信息加密，可以随时从数据库删除聊天信息，支持电脑端，网页端，安卓端，ios端
+# 🔒 xteam IM | 企业级加密办公聊天软件 | 全端源码|Secure IM Chat Platform | 企业加密通讯系统 | 安全即时通讯平台
 
-支持多重信息加密，可以随时从数据库删除聊天信息，支持电脑端，网页端，安卓端，ios端，产品运行四五年了，支持多家公司聊天办公，可以建立不同团队，团队下面可以建立不同聊天或者办公群.支持文本，图片等及时发送，语音聊天，视频聊天等。有意购请联系：联系Telegram：@xuzongbin001或E-mail：masterai918@gmail.com
+> **线上成熟运营4-5年 | 多重信息加密 | 支持电脑/网页/安卓/iOS | 可随时删除聊天记录**
+🔥 Enterprise Messaging System | 企业级IM系统  
+👉 End-to-End Encryption + Multi-Device Sync + Team Chat  
+[![Contact](https://img.shields.io/badge/联系-TG%3A%40xuzongbin001-blue)](https://t.me/xuzongbin001)
+[![Platform](https://img.shields.io/badge/平台-Windows%20%7C%20Web%20%7C%20Android%20%7C%20iOS-green)]()
+[![Language](https://img.shields.io/badge/后端-Java-red)]()
+[![Stars](https://img.shields.io/github/stars/masterai-top/xteam-IM-office-chat-encryption-software?style=social)](https://github.com/masterai-top/xteam-IM-office-chat-encryption-software)
 
-Office chat software encryption software code for sale, xteam online mature and stable product, supports multiple information encryption, chat information can be deleted from the database at any time, supports computer, web, Android, ios, the product has been running for four or five years, support Multiple companies can chat and work, and different teams can be established. Different chat or office groups can be established under the team. It supports timely sending of texts, pictures, etc., voice chat, video chat, etc. Interested parties:@xuzongbin001
+## 🧠 Project Overview
+
+This is a secure enterprise instant messaging platform.  
+本项目是一套企业级加密即时通讯系统。
+
+Supports:
+
+- Team chat / 团队聊天  
+- Private messaging / 私聊系统  
+- Multi-device sync / 多端同步  
+- Secure message storage / 安全存储  
+- Message search / 消息检索  
+
+👉 Designed for enterprise communication  
+👉 面向企业办公通讯系统  
+
+
+## ✨ 核心特色 | Core Features
+
+本项目是一款**专业的企业级即时通讯软件**，已稳定运营4-5年，服务于多家公司。
+
+| 特色模块 | 功能说明 |
+| :--- | :--- |
+| 🔒 **多重加密** | 信息加密传输，支持从数据库彻底删除聊天记录 |
+| 👥 **团队架构** | 支持多公司、多团队、多群组层级管理 |
+| 💬 **话题驱动** | 按话题组织讨论，聊天记录完整保存 |
+| 🔄 **消息同步** | 多端消息实时同步，支持全文检索 |
+| 🎥 **音视频通话** | 支持语音聊天、视频通话 |
+| 📱 **全端覆盖** | Windows PC、Web、Android、iOS |
+
+## 🎯 功能清单 | Features
+
+| 分类 | 功能 |
+| :--- | :--- |
+| **聊天功能** | 文本/图片发送、消息同步、聊天记录保存、话题驱动 |
+| **组织管理** | 团队创建、群组管理、成员权限 |
+| **安全特性** | 信息加密、聊天记录可删除、数据库级安全 |
+| **通话功能** | 语音聊天、视频通话 |
+| **其他** | 消息检索、文件传输、在线状态 |
+
+## 🚀 技术架构 | Tech Stack
+
+| 层级 | 技术 |
+| :--- | :--- |
+| **后端** | Java |
+| **数据库** | 支持聊天记录删除与加密存储 |
+| **PC端** | 跨平台桌面应用 |
+| **Web端** | H5网页版 |
+| **移动端** | Android + iOS 原生 |
+
+
+## 📸 界面预览
+
+| PC端界面 | 移动端界面 | 团队管理 |
+| :---: | :---: | :---: |
 <img width="268" alt="20" src="https://github.com/user-attachments/assets/097bc0f6-73b2-4425-b402-35f5599c4b31">
 <img width="241" alt="999" src="https://github.com/user-attachments/assets/26a7f175-6aa9-4149-bdcc-dca65404c658">
 <img width="242" alt="创建团队二维码" src="https://github.com/user-attachments/assets/dcce09af-4d37-48bd-89af-611f8574668b">
@@ -19,6 +77,72 @@ Office chat software encryption software code for sale, xteam online mature and 
 <img width="240" alt="设置选择语音" src="https://github.com/user-attachments/assets/8a2bd3e5-47c2-42a4-89ec-3adb5a6a3a64">
 <img width="797" alt="后台管理2" src="https://github.com/user-attachments/assets/217accdb-6913-40b0-b098-1cc96bc630ff">
 
+> 📷 截图正在整理中，联系我可获取最新演示视频和截图
+
+🎥 **演示视频**：[联系我获取在线演示](https://t.me/xuzongbin001)
+
+## 📈 运营数据
+
+- 上线时间：**4-5年**
+- 服务客户：**多家公司**
+- 产品状态：**线上成熟稳定**
+
+## 💰 获取源码 | Contact
+
+✅ 完整Java后端源码  
+✅ PC端/Web端/移动端源码  
+✅ 数据库脚本  
+✅ 部署文档  
+
+📱 **Telegram：@xuzongbin001**  
+📧 **Email：masterai918@gmail.com**
+
+👉 **联系我获取演示站 + 详细报价**
+## 🔐 Security Architecture
+
+- End-to-End Encryption (E2EE)  
+- AES encrypted message storage  
+- Secure key exchange  
+- Optional message self-destruction  
+- Anti-tamper communication protocol  
+
+---
+
+## ⚙️ System Architecture
+
+Client → WebSocket Gateway → Message Server → Encryption Layer → Database  
+
+---
+
+## 🏆 Features
+
+- Real-time messaging  
+- Topic-based chat rooms  
+- Message history storage  
+- Multi-team management  
+- Cross-platform support (Web / Android / iOS / Desktop)  
+
+---
+
+## 🏢 Use Cases
+
+- Enterprise office chat system  
+- Private secure communication platform  
+- Internal company messaging tool  
+- SaaS chat system  
+
+---
+
+## 🚀 Quick Start
+
+
+git clone xxx  
+cd server  
+npm install  
+npm run start  
+---
+
+⭐ Star 这个仓库，支持优质企业IM源码持续分享！
 
 
 
