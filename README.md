@@ -1,4 +1,6 @@
-# 🔒 xteam IM | 企业级加密办公聊天软件 | 全端源码|Secure IM Chat Platform | 企业加密通讯系统 | 安全即时通讯平台
+[简体中文](README.md) | [繁體中文](README.zh-TW.md) | [English](README.en.md)
+
+# 企业即时通信与办公聊天平台|安全即时通讯平台
 
 > **线上成熟运营4-5年 | 多重信息加密 | 支持电脑/网页/安卓/iOS | 可随时删除聊天记录**
 🔥 Enterprise Messaging System | 企业级IM系统  
@@ -8,12 +10,16 @@
 [![Language](https://img.shields.io/badge/后端-Java-red)]()
 [![Stars](https://img.shields.io/github/stars/masterai-top/xteam-IM-office-chat-encryption-software?style=social)](https://github.com/masterai-top/xteam-IM-office-chat-encryption-software)
 
+
 ## 🧠 Project Overview
+
 
 This is a secure enterprise instant messaging platform.  
 本项目是一套企业级加密即时通讯系统。
 
+
 Supports:
+
 
 - Team chat / 团队聊天  
 - Private messaging / 私聊系统  
@@ -21,13 +27,16 @@ Supports:
 - Secure message storage / 安全存储  
 - Message search / 消息检索  
 
+
 👉 Designed for enterprise communication  
 👉 面向企业办公通讯系统  
 
 
 ## ✨ 核心特色 | Core Features
 
+
 本项目是一款**专业的企业级即时通讯软件**，已稳定运营4-5年，服务于多家公司。
+
 
 | 特色模块 | 功能说明 |
 | :--- | :--- |
@@ -38,7 +47,9 @@ Supports:
 | 🎥 **音视频通话** | 支持语音聊天、视频通话 |
 | 📱 **全端覆盖** | Windows PC、Web、Android、iOS |
 
+
 ## 🎯 功能清单 | Features
+
 
 | 分类 | 功能 |
 | :--- | :--- |
@@ -48,7 +59,9 @@ Supports:
 | **通话功能** | 语音聊天、视频通话 |
 | **其他** | 消息检索、文件传输、在线状态 |
 
+
 ## 🚀 技术架构 | Tech Stack
+
 
 | 层级 | 技术 |
 | :--- | :--- |
@@ -61,44 +74,51 @@ Supports:
 
 ## 📸 界面预览
 
-| PC端界面 | 移动端界面 | 团队管理 |
-| :---: | :---: | :---: |
+
+
 <img width="268" alt="20" src="https://github.com/user-attachments/assets/097bc0f6-73b2-4425-b402-35f5599c4b31">
 <img width="241" alt="999" src="https://github.com/user-attachments/assets/26a7f175-6aa9-4149-bdcc-dca65404c658">
 <img width="242" alt="创建团队二维码" src="https://github.com/user-attachments/assets/dcce09af-4d37-48bd-89af-611f8574668b">
 <img width="242" alt="大厅" src="https://github.com/user-attachments/assets/85a54673-fcd4-4ad9-89d2-12fd52040a7a">
 
+
 <img width="242" alt="个人信息" src="https://github.com/user-attachments/assets/2633907e-7283-4a8a-877d-b360595ee6c8">
 <img width="242" alt="个人信息签名" src="https://github.com/user-attachments/assets/cd9cb44f-aae1-4fac-b4a6-7d0917b1aa29">
 <img width="246" alt="加入大厅了" src="https://github.com/user-attachments/assets/c3b7bc6f-3754-42e0-9f7e-2f88a43fa90b">
+
 
 <img width="241" alt="加入团队看联系人" src="https://github.com/user-attachments/assets/16a50a49-84b2-4ac9-aef7-6e51dd0d4e39">
 <img width="239" alt="聊天" src="https://github.com/user-attachments/assets/95f7f573-73da-4da3-b0ab-2f7754302805">
 <img width="240" alt="设置选择语音" src="https://github.com/user-attachments/assets/8a2bd3e5-47c2-42a4-89ec-3adb5a6a3a64">
 <img width="797" alt="后台管理2" src="https://github.com/user-attachments/assets/217accdb-6913-40b0-b098-1cc96bc630ff">
 
+
 > 📷 截图正在整理中，联系我可获取最新演示视频和截图
+
 
 🎥 **演示视频**：[联系我获取在线演示](https://t.me/xuzongbin001)
 
+
 ## 📈 运营数据
+
 
 - 上线时间：**4-5年**
 - 服务客户：**多家公司**
 - 产品状态：**线上成熟稳定**
 
-## 💰 获取源码 | Contact
 
-✅ 完整Java后端源码  
-✅ PC端/Web端/移动端源码  
-✅ 数据库脚本  
-✅ 部署文档  
+## 💰 Contact
+
+
+
 
 📱 **Telegram：@xuzongbin001**  
 📧 **Email：masterai918@gmail.com**
 
-👉 **联系我获取演示站 + 详细报价**
+
+
 ## 🔐 Security Architecture
+
 
 - End-to-End Encryption (E2EE)  
 - AES encrypted message storage  
@@ -106,15 +126,21 @@ Supports:
 - Optional message self-destruction  
 - Anti-tamper communication protocol  
 
+
 ---
+
 
 ## ⚙️ System Architecture
 
+
 Client → WebSocket Gateway → Message Server → Encryption Layer → Database  
+
 
 ---
 
+
 ## 🏆 Features
+
 
 - Real-time messaging  
 - Topic-based chat rooms  
@@ -122,16 +148,21 @@ Client → WebSocket Gateway → Message Server → Encryption Layer → Databas
 - Multi-team management  
 - Cross-platform support (Web / Android / iOS / Desktop)  
 
+
 ---
 
+
 ## 🏢 Use Cases
+
 
 - Enterprise office chat system  
 - Private secure communication platform  
 - Internal company messaging tool  
 - SaaS chat system  
 
+
 ---
+
 
 ## 🚀 Quick Start
 
@@ -142,8 +173,5 @@ npm install
 npm run start  
 ---
 
+
 ⭐ Star 这个仓库，支持优质企业IM源码持续分享！
-
-
-
-
